@@ -11,7 +11,7 @@ export default function Navbar() {
         <Link to="/about">About</Link>
         <Link to="/careers">Careers</Link>
         <Link to="/insights">Insights</Link>
-        <Link to="/contact">Contact</Link>
+        {/* <Link to="/contact">Contact</Link> */}
       </div>
     </nav>
   );
